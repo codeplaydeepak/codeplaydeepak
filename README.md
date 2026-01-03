@@ -1,63 +1,52 @@
-# Hi there 👋, I'm Deepak  
+# 👋 Hi, I'm Deepak Chand  
 
-🎓 **B.Tech Computer Science Engineering Student**  
-💻 Aspiring **Software Developer | Web | AI | Cybersecurity Enthusiast**  
-🚀 Passionate about building projects and learning by doing  
-
----
-
-## 🧑‍💻 About Me  
-
-I’m a motivated **Computer Science student** with a strong foundation in programming and web technologies.  
-I enjoy solving problems, building real-world projects, and continuously upgrading my technical skills to be **industry-ready**.
-
-- 🌱 Currently learning **Web Development, AI fundamentals & Cybersecurity basics**
-- 💡 Interested in **Software Development, Web Apps, and Secure Systems**
-- 🛠 Hands-on experience through academic and self-learning projects
-- 🎯 Career Goal: **Become a skilled software engineer and contribute to impactful tech solutions**
+🎓 **B.Tech CSE Student** | 💻 **Aspiring Software Developer**  
+🌐 Web • 🤖 AI • 🔐 Cybersecurity  
 
 ---
 
-## 🧠 Technical Skills  
+## 💫 About Me  
 
-### 💻 Programming Languages  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+I’m a motivated **Computer Science Engineering student** passionate about building real-world projects and continuously improving my technical skills.
 
-### 🌐 Web Development  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- 🚀 Learning by building **projects & solving problems**
+- 🌱 Currently exploring **Web Development, AI & Cybersecurity**
+- 🎯 Goal: **Industry-ready Software Engineer**
 
-### 🔐 AI & Cybersecurity (Learning)  
-- 🤖 AI & Data Science fundamentals  
-- 🔒 Cybersecurity basics (networking, security awareness)
+---
 
-### 🛠 Tools & Platforms  
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+## 🛠 Tech Stack  
+
+**Languages:** C, Python, JavaScript  
+**Web:** HTML, CSS, Bootstrap, React  
+**Backend:** Node.js, Express, Django, Flask  
+**Databases:** MySQL, MongoDB  
+**Tools:** Git, GitHub, VS Code  
+**Cloud (Basics):** AWS, Azure, Firebase  
 
 ---
 
 ## 📊 GitHub Stats  
 
-![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-## 📌 What I’m Working On  
-
-- 🔹 Responsive web projects using **HTML, CSS & JavaScript**
-- 🔹 Strengthening **DSA & problem-solving skills**
-- 🔹 Exploring **AI concepts and cybersecurity fundamentals**
+![Stats](https://github-readme-stats.vercel.app/api?username=codeplaydeepak&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codeplaydeepak&layout=compact&theme=radical)
 
 ---
 
-## 🤝 Let’s Connect  
+## 📌 Currently Working On  
 
-📫 Feel free to explore my repositories and connect with me  
-⭐ Open to **learning, collaboration, and internship opportunities**
+- 🔹 Responsive Web Projects  
+- 🔹 DSA & Problem Solving  
+- 🔹 AI & Cybersecurity Fundamentals  
 
 ---
+
+## 🌐 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/deepak-chand-575976368/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram)](https://instagram.com/deepak_fl_3115)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail)](mailto:codeplaydeepak@gmail.com)
+
+---
+
+⭐ *Open to internships, collaboration & learning opportunities*
