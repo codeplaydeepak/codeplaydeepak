@@ -72,7 +72,10 @@ I enjoy solving problems, building real-world projects, and continuously improvi
 - 🔹 Strengthening **DSA & problem-solving**
 - 🔹 Exploring **AI & Cybersecurity fundamentals**
 
+# 📊 GitHub Stats: ![](https://github-readme-stats.vercel.app/api?username=codeplaydeepak&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=codeplaydeepak&theme=radical&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=codeplaydeepak&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ---
+
 ## 🧩 Engineering Focus
 
 - 🔹 Writing **clean, readable, and maintainable code**
