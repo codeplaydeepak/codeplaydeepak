@@ -3,8 +3,21 @@
 ---
  <br>🧑‍💻 About Me
  <br><br>I’m a motivated **Computer Science student** with a strong foundation in programming and web technologies.  <br>I enjoy solving problems, building real-world projects, and continuously upgrading my technical skills to be **industry-ready**.<br><br>- 🌱 Currently learning **Web Development, AI fundamentals & Cybersecurity basics**<br>- 💡 Interested in **Software Development, Web Apps, and Secure Systems**<br>- 🛠 Hands-on experience through academic and self-learning projects<br>- 🎯 Career Goal: **Become a skilled software engineer and contribute to impactful tech solutions**<br><br>---<br><br>## 
-🧠 Technical Skills  <br><br>### 💻 Programming Languages  <br>![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)<br>![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)<br><br>### 
-🌐 Web Development  <br>![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)<br>![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)<br><br>### 🔐 AI & Cybersecurity (Learning)  <br>- 🤖 AI & Data Science fundamentals  <br>- 🔒 Cybersecurity basics (networking, security awareness)<br><br>### 🛠 Tools & Platforms  <br>![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)<br>![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)<br><br>---<br><br>## 📊 GitHub Stats  <br><br>![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)<br><br>![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)<br><br>---<br><br>## 📌 What I’m Working On  <br><br>- 🔹 Responsive web projects using **HTML, CSS & JavaScript**<br>- 🔹 Strengthening **DSA & problem-solving skills**<br>- 🔹 Exploring **AI concepts and cybersecurity fundamentals**<br><br>---<br><br>## 🤝 Let’s Connect  <br><br>📫 Feel free to explore my repositories and connect with me  <br>⭐ Open to **learning, collaboration, and internship opportunities**<br><br>---<br>
+🧠 Technical Skills  <br><br>### 
+💻 Programming Languages  <br>
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)<br>![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)<br><br>### 
+
+🌐 Web Development  <br>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)<br>
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)<br><br>### 
+
+🔐 AI & Cybersecurity (Learning)  <br>- 🤖 AI & Data Science fundamentals  <br>- 🔒 Cybersecurity basics (networking, security awareness)<br><br>### 🛠 
+Tools & Platforms  <br>
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)<br>
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)<br><br>---<br><br>
+
+📌 What I’m Working On  <br><br>- 🔹 Responsive web projects using **HTML, CSS & JavaScript**<br>- 🔹 Strengthening **DSA & problem-solving skills**<br>- 🔹 Exploring **AI concepts and cybersecurity fundamentals**<br><br>---<br><br>## 🤝 Let’s Connect  <br><br>📫 Feel free to explore my repositories and connect with me  <br>⭐ Open to **learning, collaboration, and internship opportunities**<br><br>---<br>
 
 
 ## 🌐 Socials:
